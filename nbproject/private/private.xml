@@ -5,17 +5,18 @@
         <group>
             <file>file:/C:/Users/rgarr/OneDrive/Documentos/PrograClienteServidor/FideCompro_Avance2/src/fidecompro/Usuario.java</file>
             <file>file:/C:/Users/rgarr/OneDrive/Documentos/PrograClienteServidor/FideCompro_Avance2/src/fidecompro/Main.java</file>
-            <file>file:/C:/Users/rgarr/OneDrive/Documentos/PrograClienteServidor/FideCompro_Avance2/src/fidecompro/Administrador.java</file>
             <file>file:/C:/Users/rgarr/OneDrive/Documentos/PrograClienteServidor/FideCompro_Avance2/src/fidecompro/Producto.java</file>
-            <file>file:/C:/Users/rgarr/OneDrive/Documentos/PrograClienteServidor/FideCompro_Avance2/src/fidecompro/VentanaCrearFactura.java</file>
+            <file>file:/C:/Users/rgarr/OneDrive/Documentos/PrograClienteServidor/FideCompro_Avance2/src/fidecompro/ClienteDAO.java</file>
+            <file>file:/C:/Users/rgarr/OneDrive/Documentos/PrograClienteServidor/FideCompro_Avance2/src/fidecompro/VentanaRegistrarCliente.java</file>
+            <file>file:/C:/Users/rgarr/OneDrive/Documentos/PrograClienteServidor/FideCompro_Avance2/src/fidecompro/ProductoDAO.java</file>
             <file>file:/C:/Users/rgarr/OneDrive/Documentos/PrograClienteServidor/FideCompro_Avance2/src/fidecompro/Cliente.java</file>
-            <file>file:/C:/Users/rgarr/OneDrive/Documentos/PrograClienteServidor/FideCompro_Avance2/src/fidecompro/Vendedor.java</file>
+            <file>file:/C:/Users/rgarr/OneDrive/Documentos/PrograClienteServidor/FideCompro_Avance2/src/fidecompro/UsuarioDAO.java</file>
             <file>file:/C:/Users/rgarr/OneDrive/Documentos/PrograClienteServidor/FideCompro_Avance2/src/fidecompro/VentanaLogin.java</file>
-            <file>file:/C:/Users/rgarr/OneDrive/Documentos/PrograClienteServidor/FideCompro_Avance2/src/fidecompro/ListaProductos.java</file>
-            <file>file:/C:/Users/rgarr/OneDrive/Documentos/PrograClienteServidor/FideCompro_Avance2/src/fidecompro/Factura.java</file>
+            <file>file:/C:/Users/rgarr/OneDrive/Documentos/PrograClienteServidor/FideCompro_Avance2/src/fidecompro/VentanaFactura.java</file>
+            <file>file:/C:/Users/rgarr/OneDrive/Documentos/PrograClienteServidor/FideCompro_Avance2/src/fidecompro/VentanaMenu.java</file>
+            <file>file:/C:/Users/rgarr/OneDrive/Documentos/PrograClienteServidor/FideCompro_Avance2/src/fidecompro/ConexionBD.java</file>
+            <file>file:/C:/Users/rgarr/OneDrive/Documentos/PrograClienteServidor/FideCompro_Avance2/src/fidecompro/Sesion.java</file>
             <file>file:/C:/Users/rgarr/OneDrive/Documentos/PrograClienteServidor/FideCompro_Avance2/src/fidecompro/VentanaRegistrarProducto.java</file>
-            <file>file:/C:/Users/rgarr/OneDrive/Documentos/PrograClienteServidor/FideCompro_Avance2/src/fidecompro/LineaFactura.java</file>
-            <file>file:/C:/Users/rgarr/OneDrive/Documentos/PrograClienteServidor/FideCompro_Avance2/src/fidecompro/ListaClientes.java</file>
         </group>
     </open-files>
 </project-private>

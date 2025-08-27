@@ -1,17 +1,19 @@
-
 package fidecompro;
 
-/**
- *
- * @author rgarr
- */
-public class Main {
+import javax.swing.*;
 
-    /**
-     * @param args the command line arguments
-     */
+public class Main {
     public static void main(String[] args) {
-        // TODO code application logic here
+       
+        try {
+            for (UIManager.LookAndFeelInfo info : UIManager.getInstalledLookAndFeels()) {
+                if ("Nimbus".equals(info.getName())) {
+                    UIManager.setLookAndFeel(info.getClassName());
+                    break;
+                }
+            }
+        } catch (Exception ignored) {}
+
+        SwingUtilities.invokeLater(() -> new VentanaLogin().setVisible(true));
     }
-    
 }
